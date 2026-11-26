@@ -25,3 +25,22 @@ Dataset
 SQL Scripts
 Python Analysis
 Dashboard Files
+
+Retail-Analytics-End-to-End/
+│
+├── Dataset/
+│   └── sales_data.csv
+│
+├── SQL/
+│   └── data_cleaning.sql
+│
+├── Python/
+│   └── sales_analysis.ipynb
+│
+├── Dashboard/
+│   └── sales_dashboard.pbix
+│
+├── Images/
+│   └── dashboard_screenshot.png
+│
+└── README.md
